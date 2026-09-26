@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Explicitement autoriser les bots IA pour le GEO
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://landrt.github.io/Mon-Portfolio/sitemap.xml
